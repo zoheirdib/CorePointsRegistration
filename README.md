@@ -1,2 +1,2 @@
-# PointsRegistration
+# CorePointsRegistration
 Implementation of points registration algorithmes
